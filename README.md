@@ -10,3 +10,8 @@
   - **`2.1`** 2022/9/16 finished
   - **`2.2`** 2022/9/19 finished
   - **`2.3`** 2022/9/19 finished
+- <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/03 数据链路层/03 数据链路层.md">**`Chapter 3`**</a> To be continued
+  - **`3.1`** 2022/9/26 finished
+  - **`3.2`** 2022/9/26 finished
+  - **`3.3`** 2022/9/26 finished
+  - **`3.4`** To be continued
