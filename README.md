@@ -14,4 +14,8 @@
   - **`3.1`** 2022/9/26 finished
   - **`3.2`** 2022/9/26 finished
   - **`3.3`** 2022/9/26 finished
-  - **`3.4`** To be continued
+  - **`3.4`** 2022/9/27 finished
+  - **`3.5`** To be continued
+  - **`3.6`** To be continued
+  - **`3.7`** To be continued
+  - **`3.8`** To be continued
