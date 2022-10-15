@@ -3,6 +3,12 @@
 
 ## Edited by <a href="https://github.com/echo17666">echo17666</a>
 
+### 写在前面：
+这是一个开源的笔记，所以一个人写耗时间，而且肯定不全，所以如果有补充的地方欢迎提交PR，万分感谢
+
+### 特别鸣谢:
+[![Contributors](https://contrib.rocks/image?repo=echo17666/BUAA2022-Computer-Networks)](https://github.com/echo17666/BUAA2022-Computer-Networks/graphs/contributors)
+
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/01 计算机网络体系结构/01 计算机网络体系结构.md">**`Chapter 1`**</a> 2022/8/29 finished
   - **`1.1`** 2022/8/28 finished
   - **`1.2`** 2022/8/29 finished
