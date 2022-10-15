@@ -1,8 +1,6 @@
 # BUAA2022-Computer-Networks
 # 北航软院2022 计算机网络整理
 
-## Edited by <a href="https://github.com/echo17666">echo17666</a>
-
 ### 写在前面：
 这是一个开源的笔记，所以一个人写耗时间，而且肯定不全，所以如果有补充的地方欢迎提交PR，万分感谢
 
