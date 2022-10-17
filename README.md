@@ -2,8 +2,11 @@
 # 北航软院2022 计算机网络整理
 
 ### 写在前面：
-这是一个开源的笔记，所以一个人写耗时间，而且肯定不全，所以如果有补充的地方欢迎提交PR，万分感谢
+这是一个开源的笔记，以考研知识点汇总为主要目的，力求**简洁，全面，易懂**，所以一个人写耗时间，而且肯定不全，所以如果有补充的地方欢迎提交PR，万分感谢
 
+由于精力时间有限，优先更新课内讲过的东西，其他的会慢慢补充。
+
+课内知识点参考**谢希仁老师的《计算机网络》**&&北航软件学院本科**计算机网络课件**
 ### 特别鸣谢:
 [![Contributors](https://contrib.rocks/image?repo=echo17666/BUAA2022-Computer-Networks)](https://github.com/echo17666/BUAA2022-Computer-Networks/graphs/contributors)
 
@@ -14,12 +17,12 @@
   - **`2.1`** 2022/9/16 finished
   - **`2.2`** 2022/9/19 finished
   - **`2.3`** 2022/9/19 finished
-- <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/03 数据链路层/03 数据链路层.md">**`Chapter 3`**</a> To be continued
+- <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/03 数据链路层/03 数据链路层.md">**`Chapter 3`**</a> 2022/10/18 finished
   - **`3.1`** 2022/9/26 finished
   - **`3.2`** 2022/9/26 finished
   - **`3.3`** 2022/9/26 finished
   - **`3.4`** 2022/9/27 finished
-  - **`3.5`** To be continued
-  - **`3.6`** To be continued
-  - **`3.7`** To be continued
-  - **`3.8`** To be continued
+  - **`3.5`** 2022/10/17 finished
+  - **`3.6`** 2022/10/17 finished
+  - **`3.7`** 2022/10/17 finished
+  - **`3.8`** 2022/10/18 finished
