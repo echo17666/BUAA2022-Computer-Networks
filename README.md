@@ -32,6 +32,10 @@
   - **`3.8`** 2022/10/18 finished
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/04 网络层/04 网络层.md">**`Chapter 4`**</a> To be continued
   - **`4.1`** 2022/10/28 finished
-  - **`4.2`** To be continued
+  - **`4.2`** 2022/11/28 finished
   - **`4.3`** To be continued
   - **`4.4`** To be continued
+  - **`4.5`** 2022/11/28 finished
+  - **`4.6`** To be continued
+  - **`4.7`** To be continued
+  - **`4.8`** To be continued
