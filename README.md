@@ -9,7 +9,17 @@
 - 目录中带 **`*`** 的为北航课内要求部分，其余为书上的知识点
 - 一点小建议：由于本人使用 **`Vscode`** 中的 **`Markdown all in one/Markdown PDF`** 插件进行编辑/导出，所以渲染出来的效果和主流的 **`Typora`** 以及 **`Github`** 展示有所区别，所以如果希望获取最佳展示效果，建议采取相同的插件及渲染方式，~~虽然这并不影响阅读~~。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+本作品采用
+[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议][cc-by-nc-sa]进行许可.
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ### 特别鸣谢:
 [![Contributors](https://contrib.rocks/image?repo=echo17666/BUAA2022-Computer-Networks)](https://github.com/echo17666/BUAA2022-Computer-Networks/graphs/contributors)
