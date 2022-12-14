@@ -15,31 +15,37 @@
 [![Contributors](https://contrib.rocks/image?repo=echo17666/BUAA2022-Computer-Networks)](https://github.com/echo17666/BUAA2022-Computer-Networks/graphs/contributors)
 
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/01 计算机网络体系结构/01 计算机网络体系结构.md">**`Chapter 1`**</a> 2022/8/29 finished
-  - **`1.1`** 2022/8/28 finished
-  - **`1.2`** 2022/8/29 finished
+  - [x] **`1.1`** 2022/8/28 finished
+  - [x] **`1.2`** 2022/8/29 finished
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/02 物理层/02 物理层.md">**`Chapter 2`**</a> 2022/9/19 finished
-  - **`2.1`** 2022/9/16 finished
-  - **`2.2`** 2022/9/19 finished
-  - **`2.3`** 2022/9/19 finished
+  - [x] **`2.1`** 2022/9/16 finished
+  - [x] **`2.2`** 2022/9/19 finished
+  - [x] **`2.3`** 2022/9/19 finished
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/03 数据链路层/03 数据链路层.md">**`Chapter 3`**</a> 2022/10/18 finished
-  - **`3.1`** 2022/9/26 finished
-  - **`3.2`** 2022/9/26 finished
-  - **`3.3`** 2022/9/26 finished
-  - **`3.4`** 2022/9/27 finished
-  - **`3.5`** 2022/10/17 finished
-  - **`3.6`** 2022/10/17 finished
-  - **`3.7`** 2022/10/17 finished
-  - **`3.8`** 2022/10/18 finished
+  - [x] **`3.1`** 2022/9/26 finished
+  - [x] **`3.2`** 2022/9/26 finished
+  - [x] **`3.3`** 2022/9/26 finished
+  - [x] **`3.4`** 2022/9/27 finished
+  - [x] **`3.5`** 2022/10/17 finished
+  - [x] **`3.6`** 2022/10/17 finished
+  - [x] **`3.7`** 2022/10/17 finished
+  - [x] **`3.8`** 2022/10/18 finished
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/04 网络层/04 网络层.md">**`Chapter 4`**</a> To be continued
-  - **`4.1`** 2022/10/28 finished
-  - **`4.2`** 2022/11/28 finished
-  - **`4.3`** To be continued
-  - **`4.4`** To be continued
-  - **`4.5`** 2022/11/28 finished
-  - **`4.6`** To be continued
-  - **`4.7`** To be continued
-  - **`4.8`** To be continued
+  - [x] **`4.1`** 2022/10/28 finished
+  - [x] **`4.2`** 2022/11/28 finished
+  - [ ] **`4.3`** To be continued
+  - [ ] **`4.4`** To be continued
+  - [ ] **`4.5`** 2022/11/28 finished
+  - [ ] **`4.6`** To be continued
+  - [ ] **`4.7`** To be continued
+  - [ ] **`4.8`** To be continued
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/05 传输层/05 传输层.md">**`Chapter 5`**</a> 2022/12/14 finished
-  - **`5.1`** 2022/12/14 finished
-  - **`5.2`** 2022/12/14 finished
-  - **`5.3`** 2022/12/14 finished
+  - [x] **`5.1`** 2022/12/14 finished
+  - [x] **`5.2`** 2022/12/14 finished
+  - [x] **`5.3`** 2022/12/14 finished
+- <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/06 应用层/06 应用层.md">**`Chapter 6`**</a> To be continued
+  - [ ] **`6.1`** To be continued
+  - [ ] **`6.2`** To be continued
+  - [ ] **`6.3`** To be continued
+  - [ ] **`6.4`** To be continued
+  - [ ] **`6.5`** To be continued
