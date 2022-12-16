@@ -54,7 +54,7 @@
   - [x] **`5.2`** 2022/12/14 finished
   - [x] **`5.3`** 2022/12/14 finished
 - <a href="https://github.com/echo17666/BUAA2022-Computer-Networks/blob/master/06 应用层/06 应用层.md">**`Chapter 6`**</a> To be continued
-  - [ ] **`6.1`** To be continued
+  - [x] **`6.1`** 2022/12/17 finished
   - [ ] **`6.2`** To be continued
   - [ ] **`6.3`** To be continued
   - [ ] **`6.4`** To be continued
